@@ -1,0 +1,17 @@
+missing module named resource - imported by posix, F:\Desktop\5sem\python\desktop_library\script.py
+missing module named posix - imported by os, F:\Desktop\5sem\python\desktop_library\script.py
+missing module named _posixsubprocess - imported by subprocess, F:\Desktop\5sem\python\desktop_library\script.py
+missing module named org - imported by pickle, F:\Desktop\5sem\python\desktop_library\script.py
+missing module named readline - imported by cmd, code, pdb, F:\Desktop\5sem\python\desktop_library\script.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, F:\Desktop\5sem\python\desktop_library\script.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, F:\Desktop\5sem\python\desktop_library\script.py
+missing module named _winreg - imported by platform, F:\Desktop\5sem\python\desktop_library\script.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, F:\Desktop\5sem\python\desktop_library\script.py
+missing module named 'java.lang' - imported by platform, F:\Desktop\5sem\python\desktop_library\script.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, F:\Desktop\5sem\python\desktop_library\script.py
+missing module named termios - imported by tty, F:\Desktop\5sem\python\desktop_library\script.py, getpass
+missing module named grp - imported by shutil, tarfile, F:\Desktop\5sem\python\desktop_library\script.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, F:\Desktop\5sem\python\desktop_library\script.py, netrc, getpass
+missing module named 'org.python' - imported by copy, F:\Desktop\5sem\python\desktop_library\script.py, xml.sax
+missing module named _dummy_threading - imported by dummy_threading, F:\Desktop\5sem\python\desktop_library\script.py
